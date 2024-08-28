@@ -1,1 +1,1 @@
-This is lab 1 assignment
+This repo contains Python assignment codes and their corresponding output 
