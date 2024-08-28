@@ -1,0 +1,5 @@
+a=int(input("Enter test 1 : "))
+b=int(input("Enter test 2 : "))
+c=int(input("Enter test 3 : "))
+small=min(a,b,c)
+print("Average of best two test marks out of three test’s marks is ",(a+b+c-small)/2)
